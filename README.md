@@ -13,7 +13,7 @@ Me chamo David (com o último D mudo 😄). Estudo linguagens de programação d
 - Node/React/ReactNative (Em aprendizado)
 
 ### Dúvidas/Sugestões/Dicas/...
-Favor entrar em contato pelo meu LinkedIn, lá constam diversos outros daados que busquei resumir aqui 😄
+Favor entrar em contato pelo meu LinkedIn, lá constam diversos outros dados que busquei resumir aqui 😄
 
 https://www.linkedin.com/in/davidhuam/
 
